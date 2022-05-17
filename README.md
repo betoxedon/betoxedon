@@ -15,15 +15,10 @@ sou Recifense, engenheiro civil e atualmente um desenvolvedor Jr.
 ### Ferramentas que estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 
-
-<div>
-<a href="https://github.com/betoxedon">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxedon&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=betoxedon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+<div>  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxedon)](https://github.com/betoxedon/github-readme-stats)
   [![Betoxedon's GitHub stats](https://github-readme-stats.vercel.app/api?username=betoxedon)](https://github.com/betoxedon/github-readme-stats)
-                    
+ </div>                   
           
           
           
