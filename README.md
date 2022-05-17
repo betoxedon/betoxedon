@@ -21,6 +21,8 @@ sou Recifense, engenheiro civil e atualmente um desenvolvedor Jr.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxedon&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betoxedon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  [![Betoxedon's GitHub stats](https://github-readme-stats.vercel.app/api?username=betoxedon)](https://github.com/betoxedon/github-readme-stats)
                     
           
           
