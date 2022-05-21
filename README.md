@@ -1,12 +1,15 @@
-### E aê!
+![Night City](https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif)
 
-## Me chamo Roberto Melo, 
-sou Recifense, engenheiro civil e atualmente um desenvolvedor Jr.
 
+Me chamo Roberto Melo, sou **Recifense**, engenheiro civil e atualmente venho me dedicando a ser um desenvolvedor Fullstack.
+
+Após mais de 10 anos trabalhando no desenvolvimento de projetos estruturais para a construção civil, eu me vejo mais do que apto para me aventurar em novos desafios.  
+
+  
 ### Mais um pouco sobre mim:
+- Sou pai do Ravizinho :baby:
 - Gosto muito de animais, música, jogos e atualmente de desenvolvimento. 
-- Atualmente estou estudando Java
-- Estou desenvolvendo um aplicativo para ser utilizado no cálculo de estruturas em concreto armado.
+- Atualmente estou estudando Java. 
 
 ### Ferramentas e tecnologias que conheço:
 
@@ -17,6 +20,7 @@ sou Recifense, engenheiro civil e atualmente um desenvolvedor Jr.
 
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxedon)](https://github.com/betoxedon/github-readme-stats)
+  
   [![Betoxedon's GitHub stats](https://github-readme-stats.vercel.app/api?username=betoxedon)](https://github.com/betoxedon/github-readme-stats)
                
           
